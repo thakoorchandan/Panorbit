@@ -24,3 +24,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 - Demonstrated a strong `attention to detail`, ensuring that all requirements were met and the project was completed within the given timeframe.
 - Implemented `skeleton loading` for improved user experience while content is loading.
 - Ensured `mobile responsiveness` for seamless use across different devices.
+
+#### Examples
+
+-   `Users Page`
+    <img src="https://github.com/thakoorchandan/Panorbit/blob/main/public/Panorbit%201.png?raw=true" alt="Login" style="max-width:300px">
+
+-   `Profile Dashboard`
+    <img src="https://github.com/thakoorchandan/Panorbit/blob/main/public/Panorbit%202.png?raw=true" alt="Login" style="max-width:300px">
